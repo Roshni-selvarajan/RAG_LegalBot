@@ -2,7 +2,9 @@
 ## LegalBot Using RAG
 
 ### Overview
-<img src="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto" width='800'>
+### Watch the Demo Video:
+<iframe src="https://drive.google.com/file/d/1n5FQq34yAq1tWP1MZuNhRih6ZoJqYLeO/view?usp=drive_link" width="640" height="480"></iframe>
+
 
 This project demonstrates the implementation of a **Retrieval-Augmented Generation (RAG)** chatbot leveraging **Pinecone**, **Hugging Face embeddings**, and **Google Generative AI**. The chatbot delivers accurate, context-aware, and conversational responses by combining semantic search with advanced language models.
 
