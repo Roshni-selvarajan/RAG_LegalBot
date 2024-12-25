@@ -5,15 +5,21 @@
 ### Watch the Demo Video:
 [Watch the demo video](https://drive.google.com/file/d/1n5FQq34yAq1tWP1MZuNhRih6ZoJqYLeO/view?usp=drive_link)
 
+LegalBot is a chatbot designed to assist legal professionals, researchers, and individuals seeking legal advice by delivering accurate and contextual responses to complex legal queries. The chatbot leverages **Retrieval-Augmented Generation (RAG)** to enhance the quality of its responses, ensuring they are both relevant and well-informed.
 
-This project demonstrates the implementation of a **Retrieval-Augmented Generation (RAG)** chatbot leveraging **Pinecone**, **Hugging Face embeddings**, and **Google Generative AI**. The chatbot delivers accurate, context-aware, and conversational responses by combining semantic search with advanced language models.
+With its ability to perform semantic searches and generate responses using **Google Generative AI**, LegalBot aims to simplify legal research, streamline document analysis, and provide quick access to legal insights.
 
 ---
 
 ### Key Features
+- **Tailored for Legal Applications:**
+  - Provides concise, accurate answers to legal queries.
+  - Retrieves relevant legal documents or cases from a knowledge base.
+  - Assists in understanding complex legal terminology and concepts.
+
 - **Retrieval-Augmented Generation (RAG):**
-  - Retrieves relevant documents from a knowledge base using Pinecone's vector search capabilities.
-  - Augments user queries with retrieved context for better responses.
+  - Combines semantic search with generative AI to deliver context-rich responses.
+  - Uses **Pinecone** for efficient document retrieval and ranking.
 
 - **NLP Techniques Utilized:**
   - **Semantic Embeddings**: Vectorization of text using Hugging Face embeddings.
